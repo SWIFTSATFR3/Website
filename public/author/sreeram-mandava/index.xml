@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreeram Mandava | SWIFT-SAT FR3</title>
+    <link>https://swiftsatfr3.github.io/author/sreeram-mandava/</link>
+      <atom:link href="https://swiftsatfr3.github.io/author/sreeram-mandava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sreeram Mandava</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://swiftsatfr3.github.io/images/logo.svg</url>
+      <title>Sreeram Mandava</title>
+      <link>https://swiftsatfr3.github.io/author/sreeram-mandava/</link>
+    </image>
+    
+  </channel>
+</rss>

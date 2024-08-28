@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | SWIFT-SAT FR3</title>
+    <link>https://swiftsatfr3.github.io/tag/machine-learning/</link>
+      <atom:link href="https://swiftsatfr3.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://swiftsatfr3.github.io/images/logo.svg</url>
+      <title>Machine Learning</title>
+      <link>https://swiftsatfr3.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>SWIFT-SAT Software Defined Radio based Emulation of SAT-Terrestrial Network Coexistence in “FR3” Bands</title>
+      <link>https://swiftsatfr3.github.io/publication/mandayam-sat-2024/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://swiftsatfr3.github.io/publication/mandayam-sat-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

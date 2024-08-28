@@ -9,10 +9,8 @@
 title = "SWIFT-SAT FR3"
 
 # The URL of your site.
-baseURL = "https://swiftsatfr3.github.io/Website/"
+baseURL = "https://swiftsatfr3.github.io/"
 
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.

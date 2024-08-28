@@ -1,0 +1,14 @@
++++
+# About widget.
+widget = "about_research"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 200  # Order that this section will appear in.
+
+title = "Thrust 2: Spectrum Coexistence of 5G Terrestrial Networks in 12.2-12.7 GHz"
+
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "Thrust_2"
++++

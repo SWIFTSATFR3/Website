@@ -13,6 +13,8 @@ names:
 # Is this the primary user of the site?
 superuser: true
 
+![Profile Picture](./avatar.png){ width=150px height=150px }
+
 # Role/position
 #role: Professor of Artificial Intelligence
 

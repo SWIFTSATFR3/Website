@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SBKS | SWIFT-SAT FR3</title>
+    <link>http://localhost:1313/author/sbks/</link>
+      <atom:link href="http://localhost:1313/author/sbks/index.xml" rel="self" type="application/rss+xml" />
+    <description>SBKS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/images/logo.svg</url>
+      <title>SBKS</title>
+      <link>http://localhost:1313/author/sbks/</link>
+    </image>
+    
+    <item>
+      <title>Thrust_1</title>
+      <link>http://localhost:1313/author/thrust_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/thrust_1/</guid>
+      <description>&lt;p&gt;In an effort to realize an emulation testbed for the FR3 band, the proposed research project will utilize a software-defined radio (SDR) to generate an intermediate frequency (IF) signal from 10 MHz up to 6 GHz. This IF signal can then be up-converted to the desired frequency range within the entire FR3 band (7.125-24 GHz) when utilizing the heterodyne transeiver. By employing the SDR system, a baseband digital signal is generated and subsequently converted to an analog IF signal with an upper limit of 6 GHz. This IF signal serves as the foundation for the subsequent frequency conversion processes. The use of SDR offers significant flexibility as the software can be reconfigured to adapt the basic signal processing components according to the specific requirements. In particular, the flexibility in choosing ai wide range of IF frequency can allow for adapting to various communication protocols in SAT and 5G networks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | SWIFT-SAT FR3</title>
-    <link>https://swiftsatfr3.github.io/project/</link>
-      <atom:link href="https://swiftsatfr3.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 10:03:07 -0300</lastBuildDate>
     <image>
-      <url>https://swiftsatfr3.github.io/images/logo.svg</url>
+      <url>http://localhost:1313/images/logo.svg</url>
       <title>Projects</title>
-      <link>https://swiftsatfr3.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>SBOL</title>
-      <link>https://swiftsatfr3.github.io/project/sbol/</link>
+      <link>http://localhost:1313/project/sbol/</link>
       <pubDate>Mon, 07 Sep 2020 10:03:07 -0300</pubDate>
-      <guid>https://swiftsatfr3.github.io/project/sbol/</guid>
+      <guid>http://localhost:1313/project/sbol/</guid>
       <description></description>
     </item>
     

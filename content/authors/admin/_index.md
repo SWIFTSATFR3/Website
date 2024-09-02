@@ -18,7 +18,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rutgers University
+- name: Rutgers University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

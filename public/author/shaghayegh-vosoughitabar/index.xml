@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shaghayegh Vosoughitabar | SWIFT-SAT FR3</title>
-    <link>https://swiftsatfr3.github.io/author/shaghayegh-vosoughitabar/</link>
-      <atom:link href="https://swiftsatfr3.github.io/author/shaghayegh-vosoughitabar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shaghayegh-vosoughitabar/</link>
+      <atom:link href="http://localhost:1313/author/shaghayegh-vosoughitabar/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaghayegh Vosoughitabar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://swiftsatfr3.github.io/images/logo.svg</url>
+      <url>http://localhost:1313/images/logo.svg</url>
       <title>Shaghayegh Vosoughitabar</title>
-      <link>https://swiftsatfr3.github.io/author/shaghayegh-vosoughitabar/</link>
+      <link>http://localhost:1313/author/shaghayegh-vosoughitabar/</link>
     </image>
     
   </channel>

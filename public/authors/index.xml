@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | SWIFT-SAT FR3</title>
+    <link>//localhost:1313/authors/</link>
+      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/logo.svg</url>
+      <title>Authors</title>
+      <link>//localhost:1313/authors/</link>
+    </image>
+    
+    <item>
+      <title>funding</title>
+      <link>//localhost:1313/author/funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/funding/</guid>
+      <description>&lt;p&gt;This project is based upon work supported by the National Science Foundation under Grant No. 2332637. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

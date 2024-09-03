@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Standards | SWIFT-SAT FR3</title>
+    <link>//localhost:1313/tag/standards/</link>
+      <atom:link href="//localhost:1313/tag/standards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Standards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 10:03:07 -0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/logo.svg</url>
+      <title>Standards</title>
+      <link>//localhost:1313/tag/standards/</link>
+    </image>
+    
+    <item>
+      <title>SBOL</title>
+      <link>//localhost:1313/project/sbol/</link>
+      <pubDate>Mon, 07 Sep 2020 10:03:07 -0300</pubDate>
+      <guid>//localhost:1313/project/sbol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

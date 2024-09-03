@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zach Zundel | SWIFT-SAT FR3</title>
+    <link>//localhost:1313/author/zach-zundel/</link>
+      <atom:link href="//localhost:1313/author/zach-zundel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zach Zundel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/images/logo.svg</url>
+      <title>Zach Zundel</title>
+      <link>//localhost:1313/author/zach-zundel/</link>
+    </image>
+    
+  </channel>
+</rss>

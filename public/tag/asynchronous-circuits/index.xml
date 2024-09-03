@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asynchronous Circuits | SWIFT-SAT FR3</title>
+    <link>//localhost:1313/tag/asynchronous-circuits/</link>
+      <atom:link href="//localhost:1313/tag/asynchronous-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asynchronous Circuits</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/logo.svg</url>
+      <title>Asynchronous Circuits</title>
+      <link>//localhost:1313/tag/asynchronous-circuits/</link>
+    </image>
+    
+    <item>
+      <title>Achieving fast and exact hazard-free logic minimization of extended burst-mode gC finite state machines</title>
+      <link>//localhost:1313/jacobsen-achieving-2000/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/jacobsen-achieving-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

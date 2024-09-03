@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>David Walter | SWIFT-SAT FR3</title>
-    <link>http://localhost:1313/author/david-walter/</link>
-      <atom:link href="http://localhost:1313/author/david-walter/index.xml" rel="self" type="application/rss+xml" />
-    <description>David Walter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/images/logo.svg</url>
-      <title>David Walter</title>
-      <link>http://localhost:1313/author/david-walter/</link>
-    </image>
-    
-    <item>
-      <title>Hiroyuki Kuwahara</title>
-      <link>http://localhost:1313/author/hiroyuki-kuwahara/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/hiroyuki-kuwahara/</guid>
-      <description>&lt;p&gt;Under Chris’s supervision at the University of Utah, Hiro pursued a doctoral dissertation research project that applied engineering techniques to analyze biological systems; he developed systematic model abstraction methods for efficient analysis of gene regulatory systems. After obtaining a Ph.D. in Computer Science, he gained additional training in the research area of computational biology: first, as a junior researcher at The Microsoft Research - University of Trento Centre for Computational and Systems Biology and next, as a Ray and Stephanie Lane fellow in School of Computer Science at Carnegie Mellon University.&lt;/p&gt;
-&lt;p&gt;Hiro is currently a Research Scientist in Computational Bioscience Research Center at King Abdullah University of Science and Technology. His research interests include computational systems and synthetic biology, evolutionary systems biology, bioinformatics, and computational medicine.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>David Walter | SWIFT-SAT FR3</title><link>https://swiftsatfr3.github.io/author/david-walter/</link><atom:link href="https://swiftsatfr3.github.io/author/david-walter/index.xml" rel="self" type="application/rss+xml"/><description>David Walter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://swiftsatfr3.github.io/images/logo.svg</url><title>David Walter</title><link>https://swiftsatfr3.github.io/author/david-walter/</link></image><item><title>Hiroyuki Kuwahara</title><link>https://swiftsatfr3.github.io/author/hiroyuki-kuwahara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://swiftsatfr3.github.io/author/hiroyuki-kuwahara/</guid><description>&lt;p>Under Chris’s supervision at the University of Utah, Hiro pursued a doctoral dissertation research project that applied engineering techniques to analyze biological systems; he developed systematic model abstraction methods for efficient analysis of gene regulatory systems. After obtaining a Ph.D. in Computer Science, he gained additional training in the research area of computational biology: first, as a junior researcher at The Microsoft Research - University of Trento Centre for Computational and Systems Biology and next, as a Ray and Stephanie Lane fellow in School of Computer Science at Carnegie Mellon University.&lt;/p>
+&lt;p>Hiro is currently a Research Scientist in Computational Bioscience Research Center at King Abdullah University of Science and Technology. His research interests include computational systems and synthetic biology, evolutionary systems biology, bioinformatics, and computational medicine.&lt;/p></description></item></channel></rss>

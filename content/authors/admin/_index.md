@@ -71,6 +71,9 @@ user_groups:
 
 Software Defined Radio based Emulation of SAT-Terrestrial Network Coexistence in FR3 Bands is a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2332637&HistoricalAwards=false">NSF</a> project focused on creating an over-the-air indoor FR3 testbed for experimental studies of coexistence between terrestrial and satellite systems, using software-defined radios (SDR) to emulate dense 5G cellular networks and satellite equipment. The FR3 testbed is an extension of an existing testbed, the <a href="https://wiki.cosmos-lab.org/">COSMOS</a> sandbox at Rutgers University WINLAB, and is an open resource remotely accessible to other researchers. 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmUlXH8sdEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <!-- Embed the video here -->
 <video width="600" controls>
   <source src="/videos/background.mp4" type="video/mp4">

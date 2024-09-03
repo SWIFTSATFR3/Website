@@ -16,10 +16,6 @@
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-{{ $avatar_size := "270x270 Center" }}
-{{ if .Params.custom_avatar_size }}
-  {{ $avatar_size = "150x150 Center" }}  <!-- Adjust the size here as needed -->
-{{ end }}
 
 <!-- About widget -->
 <div class="row">
@@ -30,7 +26,11 @@
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "275x275 Center" }}
-      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
+      <!--img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"-->
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+     style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;"
+     src="{{ $avatar_image.RelPermalink }}"
+     alt="{{$person_page.Title}}">
       {{ end }}
 
       <div class="portrait-title">

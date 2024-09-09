@@ -4,7 +4,7 @@ widget = "intro"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
-title = "SWIFT-SAT: Software Defined Radio based Emulation of SAT-Terrestrial Network Coexistence in FR3 Bands"
+title = "SWIFT-SAT: <br> Software Defined Radio based Emulation of <br> SAT-Terrestrial Network Coexistence in FR3 Bands"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
@@ -32,7 +32,7 @@ author = "admin"
 
   # Background color.
   # color = "#6e1e3b"
-
+  
   # Text color (true=light or false=dark).
   # text_color_light = true
 

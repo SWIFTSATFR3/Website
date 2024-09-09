@@ -38,7 +38,7 @@
       {{ end }}
 
 
-      <div class="portrait-title">
+      <div class="portrait-title" style="text-align: center;">
         <h2>{{ $person_page.Title }}</h2>
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
@@ -86,9 +86,12 @@
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}
+      <!-- Centered Title -->
+      <h1 style="text-align: center;font-weight: bold;">{{ $page.Title | markdownify | emojify }}</h1>
+    {{ end }}
 
-    {{ $person_page.Content }}
+    {{$person_page.Content}}
 
     <div class="row">
 
